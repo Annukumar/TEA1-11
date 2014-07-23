@@ -7,7 +7,8 @@ TEA1-11
 <title>Student Database</title>
 </head>
 <body bgcolor='RED' text='BLUE'>
-This is a very basic html document.
-<img src="Downloads/minion.gif">
+The repository representing TEA1-11
+
+
 </body>
 </html>
